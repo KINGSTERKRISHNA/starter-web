@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ###copyright this is a copyright notice
  
  ##automatic branching and rebasing
+
+ all rights reserved`
