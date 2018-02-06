@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
  
  ##automatic branching and rebasing
 
- all rights reserved`
+ all rights reservediiii`
